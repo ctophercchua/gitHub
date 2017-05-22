@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="gitHub" language="en" table="x_94581_github_github">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>gitHub</label>
+            <language>en</language>
+            <name>x_94581_github_github</name>
+            <plural>gitHubs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chris_admin</sys_created_by>
+            <sys_created_on>2017-05-22 08:05:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>78545043dbfa3200b78ff8fdbf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gitHub</sys_name>
+            <sys_package display_value="gitHub" source="x_94581_github">87d2148fdbba3200b78ff8fdbf961957</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="gitHub">87d2148fdbba3200b78ff8fdbf961957</sys_scope>
+            <sys_update_name>sys_documentation_x_94581_github_github__en</sys_update_name>
+            <sys_updated_by>chris_admin</sys_updated_by>
+            <sys_updated_on>2017-05-22 08:05:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
